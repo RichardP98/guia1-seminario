@@ -21,6 +21,7 @@ Abrir la terminal (WSL2 / PowerShell / Bash) y ejecuta:
 ```bash
 git clone https://github.com/jamescanos/SeminarioLaravel.git
 cd entorno-seminario-laravel
+```
 
 ### 2. Estructura Inicial
 Dentro de la carpeta, crea una carpeta llamada src
