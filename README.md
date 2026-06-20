@@ -22,6 +22,10 @@ actividad de github
 
 ![Captura 5](./5.png)
 
+## Captura 6 funciones y condicionales php
+
+![Captura 6](./6.png)
+
 ## Instalación
 
 ```bash
