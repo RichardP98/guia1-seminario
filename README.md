@@ -18,6 +18,10 @@ actividad de github
 
 ![Captura 4](./4.png)
 
+## Captura 5 Arrays php
+
+![Captura 5](./5.png)
+
 ## Instalación
 
 ```bash
