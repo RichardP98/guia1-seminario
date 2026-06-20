@@ -26,6 +26,10 @@ actividad de github
 
 ![Captura 6](./6.png)
 
+## Captura 7 formularios con php
+
+![Captura 7](./7.png)
+
 ## Instalación
 
 ```bash
