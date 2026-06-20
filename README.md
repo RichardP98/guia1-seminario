@@ -14,6 +14,10 @@ actividad de github
 
 ![Captura 3](./3.png)
 
+## Captura 4 variables php
+
+![Captura 4](./4.png)
+
 ## Instalación
 
 ```bash
