@@ -38,6 +38,10 @@ Actividad de GitHub.
 
 ![Captura 9](img/9.png)
 
+## Captura 10 - Creación del Modelo (M) con CRUD
+
+![Captura 10](img/10.png)
+
 ## Instalación
 
 ```bash
