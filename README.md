@@ -34,6 +34,10 @@ Actividad de GitHub.
 
 ![Captura 8](img/8.png)
 
+## Captura 9 - databse con POO 
+
+![Captura 9](img/9.png)
+
 ## Instalación
 
 ```bash
