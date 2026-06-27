@@ -46,6 +46,10 @@ Actividad de GitHub.
 
 ![Captura 11](img/11.png)
 
+## Captura 12 - Editar en proyecto final
+
+![Captura 12](img/12.png)
+
 ## Instalación
 
 ```bash
