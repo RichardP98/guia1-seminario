@@ -30,6 +30,32 @@ class UserController {
         }
     }
 
+    // Acción para editar un usuario
+public function edit() {
+    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+
+        $id = $_POST['id'];
+        $nombre = $_POST['nombre'];
+        $email = $_POST['email'];
+
+        $this->model->update($id, $nombre, $email);
+
+        header('Location: index.php?action=index');
+        exit;
+
+    } else {
+
+        if (isset($_GET['id'])) {
+            $user = $this->model->getById($_GET['id']);
+
+            require_once __DIR__ . '/../views/users/edit.php';
+        } else {
+            header('Location: index.php?action=index');
+            exit;
+        }
+
+    }
+}
     // Acción para eliminar
     public function delete() {
         if (isset($_GET['id'])) {

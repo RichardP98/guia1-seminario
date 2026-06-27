@@ -27,6 +27,14 @@ class UserModel {
         $stmt = $this->db->prepare("INSERT INTO users (nombre, email) VALUES (?, ?)");
         return $stmt->execute([$nombre, $email]);
     }
+    // Actualizar un usuario
+    public function update($id, $nombre, $email) {
+    $stmt = $this->db->prepare(
+        "UPDATE users SET nombre = ?, email = ? WHERE id = ?"
+    );
+
+    return $stmt->execute([$nombre, $email, $id]);
+}
 
     // Eliminar usuario (RETO)
     public function delete($id) {
