@@ -42,6 +42,10 @@ Actividad de GitHub.
 
 ![Captura 10](img/10.png)
 
+## Captura 11 - Vistas (V) y Entrega Final
+
+![Captura 11](img/11.png)
+
 ## Instalación
 
 ```bash
